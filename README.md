@@ -1,6 +1,6 @@
-Of course. Based on your keywords, here is a complete `README.md` file.
+Of course. Based on your keywords and the new project name, here is a complete `README.md` file for "./cemuchyik".
 
-This file interprets "Elephants" as the project codename, "Clinic Script" as the application's purpose, "Bee Live" as a key feature or module, and "HDBC" as a typo for the standard `JDBC`. The file is structured to be professional and useful for any developer joining the project.
+This file interprets "Elephants" as the project codename, "Clinic Script" as the application's purpose, "Bee Live" as a key feature, and "HDBC" as a typo for the standard `JDBC`. The file is structured to be professional and useful for any developer joining the project.
 
 <img src="./matrix/cec/bin/image/logon.avif">
 
@@ -61,10 +61,10 @@ The system is built on a solid client-server architecture, ensuring data integri
 
 ## Project Structure
 
-The project follows a modular structure within the main `./semuchyik` directory to separate concerns and improve maintainability.
+The project follows a modular structure within the main `./cemuchyik` directory to separate concerns and improve maintainability.
 
 
-./semuchyik/
+./cemuchyik/
 ├── App/         # Core application logic, business rules, and source code
 ├── Client/      # Client-side components (e.g., Desktop UI source)
 ├── Desktop/     # Resources specific to the desktop application (configs, launchers)
@@ -93,13 +93,13 @@ To get a local copy up and running, follow these simple steps.
 1.  **Clone the repository:**
     ```sh
     git clone <your-repository-url>
-    cd semuchyik
+    cd cemuchyik
     ```
 
 2.  **Open in NetBeans:**
     *   Launch NetBeans IDE.
     *   Go to `File` -> `Open Project...`.
-    *   Navigate to and select the `semuchyik` folder.
+    *   Navigate to and select the `cemuchyik` folder.
 
 3.  **Configure Database:**
     *   Create a new database for the project.
@@ -126,19 +126,4 @@ Once the application is running:
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Please refer to `CONTRIBUTING.md` for our contribution guidelines.
-
----
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## Contact
-
-Project Maintainer - [Your Name](mailto:your.email@example.com)
-
-Project Link: [https://github.com/your_username/semuchyik](https://github.com/your_username/semuchyik)
-```
+Please refer to `CONTRIBUTING.md
