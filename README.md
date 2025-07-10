@@ -63,7 +63,7 @@ The system is built on a solid client-server architecture, ensuring data integri
 
 The project follows a modular structure within the main `./semuchyik` directory to separate concerns and improve maintainability.
 
-```
+
 ./semuchyik/
 ├── App/         # Core application logic, business rules, and source code
 ├── Client/      # Client-side components (e.g., Desktop UI source)
@@ -73,7 +73,7 @@ The project follows a modular structure within the main `./semuchyik` directory 
 ├── Servers/     # Server-side logic, APIs, and deployment configurations
 ├── Web/         # Web-facing components (HTML, CSS, JS, JSPs)
 └── README.md    # This file
-```
+
 
 ---
 
